@@ -1,0 +1,6 @@
+rootProject.name = 'saron-api-gateway-service'
+include 'Api-gateway-servcie-controller'
+include 'Api-gateway-servcie-persistance'
+include 'Api-gateway-servcie-flow'
+include 'Api-gateway-servcie-model'
+
